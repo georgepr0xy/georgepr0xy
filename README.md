@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on <a href="https://github.com/Tejas1510/Awesome-Javascript-and-React-Project">*Full Stack Projects*</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/Tejas1510?tab=repositories">*Github*</a>
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: tejasstapas@gmail.com
+- 📫 How to reach me: provincegeorge412@gmail.com
 - 😄 Pronouns: Web Developer and Android Developer
 - ⚡ Website : <a target="_blank" href="https://tejastapas.netlify.app/">Tejas Tapas</a>
 
