@@ -2,7 +2,7 @@
 <p>
 <a href=""><img src="https://aleen42.github.io/badges/src/twitter.svg" height=25></a> 
 <a href=""><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
-<a href="https://www.linkedin.com/in/tejas-tapas-971847171/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<a href="https://www.linkedin.com/in/george-province-7007b4238/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 <a href="https://www.instagram.com/_the_george_19/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 <a href=""><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
  </a> 
