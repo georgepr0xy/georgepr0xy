@@ -18,13 +18,13 @@
 # Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on *Android and Java*
-- 🌱 I’m currently learning *Javascript, **Android, **React, **Frontend Design*
+- 🌱 I’m currently learning *Javascript, HTML, Python, **Frontend Design*
 - 👯 I’m looking to collaborate on <a href="https://github.com/Tejas1510/Awesome-Javascript-and-React-Project">*Full Stack Projects*</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/Tejas1510?tab=repositories">*Github*</a>
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: provincegeorge412@gmail.com
-- 😄 Pronouns: Web Developer and Android Developer
-- ⚡ Website : <a target="_blank" href="https://tejastapas.netlify.app/">Tejas Tapas</a>
+- 😄 Pronouns: Web Developer and python
+- ⚡ Website : <a target="_blank" href="https://tejastapas.netlify.app/">George province</a>
 
 # Skills:
 
