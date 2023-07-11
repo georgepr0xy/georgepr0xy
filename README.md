@@ -34,13 +34,4 @@
 *Frameworks*
 * <img src="https://img.shields.io/badge/Android-%234ea94b.svg?&style=for-the-badge&logo=Android&logoColor=white" height=25> <img src="https://camo.githubusercontent.com/6713ecbc89eb90c005464de60a106596475e1587/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2532302d2532333039324532302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465" height=25> <img src="https://camo.githubusercontent.com/cd4f83dc0bba9fa02525d7a6b1993fd883b3d713/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2532302d2532333030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465" height=25> <img src="https://camo.githubusercontent.com/e3c72ff8c616617254d1b5303370700edfdb9942/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" height=25> <img src="https://camo.githubusercontent.com/6ce7b11ba5b6b3933921ffe85e01f993c54da51b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d2532333037343035652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" height=25>
 
- # Stats:
  
-![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Tejas1510&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
-<a href="https://Tejas1510.github.io">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas1510&count_private=true" align="center"/>
-</a>
-<a href="https://Tejas1510.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas1510&layout=compact" align="center"/>
-</a>
